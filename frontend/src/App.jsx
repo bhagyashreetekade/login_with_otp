@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className='App'>
-      Login
+      <h1>Login</h1>
       <PhoneOtpLogin />
     </div>
     
